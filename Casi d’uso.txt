@@ -1,0 +1,10 @@
+﻿Casi d’uso:
+
+
+1. Gestione dipendenti: il sistema permette all’amministratore di gestire i dati dei dipendenti dell’academy mediante le operazioni CRUD delle informazioni del dipendente, tra queste quelle personali (nome e cognome) e professionali (ruolo e.g. Teacher, Tutor[...]).
+2. Pianificazione dei corsi: il sistema permette all’amministratore di pianificare i corsi offerti dall’academy attraverso le operazioni CRUD dei corsi, l’assegnazione di Teacher e Tutor alle classi di studenti e all’aula (numerica) associata, definizione di date d’inizio e fine e orari dei corsi.
+3. Gli utenti autorizzati (quindi anche i dipendenti impiegati nell’ambito dell’istruzione dell’academy) sono in grado di generare report sui dati relativi ai corsi; questi includono le seguenti informazioni:
+* numero di studenti iscritti
+* prestazione complessiva della classe (espressa con un valore intero compreso tra 1 e 5)
+        inoltre, ogni studente ha una sua valutazione individuale espressa in maniera
+        analoga a quella complessiva e il numero di assenze.
